@@ -1,0 +1,16 @@
+{
+  "name": "yoвпрро",
+  "version": "1.0.0",
+  "description": "Краткое описание провиапвпнпвншвеекта",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "keywords": ["keywords", "for", "project"],
+  "author": "govno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pzorin1171-star/Putin.git"
+  }
+}

@@ -4,11 +4,10 @@
   "description": "Краткое описание провиапвпнпвншвеекта",
   "main": "index.html",
   "scripts": {
+    "build": "echo 'Building static site'",
     "start": "serve -s ."
   },
-  "keywords": ["keywords", "for", "project"],
   "author": "govno",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/pzorin1171-star/Putin.git"
